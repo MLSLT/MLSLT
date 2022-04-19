@@ -1,0 +1,5 @@
+tensorflow-cpu==2.1.0
+PyYAML==5.3
+portalocker==1.5.2
+torchtext==0.6.0
+torch==1.4.0
